@@ -17,7 +17,7 @@
 <style scoped>
 nav {
   padding: 40px 0;
-  background-color: beige;
+  background-color: rgb(239, 239, 210);
   text-align: center;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
 }

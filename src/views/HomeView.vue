@@ -16,7 +16,7 @@
 </script>
 
 
-<style scoped>
+<style >
 * {
     box-sizing: border-box;
 }
@@ -46,6 +46,7 @@ ul {
     display: block;
     margin-left: auto; 
     margin-right: auto;
+    border-radius: 10%;
 }
 
 .container-2 {
