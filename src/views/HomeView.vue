@@ -5,7 +5,7 @@
               <h1 class="animated-heading">H & S SkinCare</h1>
         </div>
             <div class="container">
-                <img src="https://i.postimg.cc/9QRDmmD9/Getty-Images-637130628-1-scaled.webp" alt="Description of image" class="image-small">
+                <img src="https://r2.easyimg.io/4l17wbf5e/gettyimages-637130628-1-scaled.webp" alt="Description of image" class="image-small">
             </div>
           </div>
         </div>
@@ -16,7 +16,7 @@
 </script>
 
 
-<style >
+<style scoped >
 * {
     box-sizing: border-box;
 }
@@ -41,7 +41,7 @@ ul {
 } 
 
 .image-small {
-    max-width: 70%; 
+    max-width: 60%; 
     height: auto; 
     display: block;
     margin-left: auto; 
