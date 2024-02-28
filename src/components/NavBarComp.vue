@@ -20,6 +20,8 @@ nav {
   background-color: rgb(239, 239, 210);
   text-align: center;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
+ 
+
 }
 
 

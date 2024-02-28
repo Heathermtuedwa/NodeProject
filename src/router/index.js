@@ -32,7 +32,7 @@ const routes = [
     component: ProductView
   },
   {
-    path: '/singleProduct',
+    path: '/products/:id',
     name: 'singleProduct',
     component: SingleProductView
   },
